@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "socket.io": "^3.0.4"
+  }
+}
